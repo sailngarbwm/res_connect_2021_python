@@ -1,5 +1,5 @@
 
-# VALA Tech Camp introduction to python course
+# Researcher Connect 2021 Introduction to Python Workshop 
 
 This course is designed for library associated folks who have never used python or any programming language before, but are interested in learning some of the basics, as well as seeing what it can do to help manage metadata!
 
@@ -39,12 +39,6 @@ Check out the [installation instructions](Python_Installation.md). **Note** You 
 |**Skill**|**time**|**View**|**Run in Collab**|
 |---:|---|---|---|
 |Part 1 - An Introduction to Jupyter and Python|55 min|[Click here ](https://github.com/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%201%20-%20An%20Introduction%20to%20Jupyter%20and%20Python.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%201%20-%20An%20Introduction%20to%20Jupyter%20and%20Python.ipynb)|
-|Short Break 1|5 minutes|--|--|
-|Part 2 - fundamentals of python lists |55 minutes|[Click here ](https://github.com/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%202%20-%20fundamentals%20of%20python%20lists.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%202%20-%20fundamentals%20of%20python%20lists.ipynb)|
-|Long Break|30 minutes|--|--|
-|Part 3 - storing data in dictionaries |30 minutes|[Click here](https://github.com/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%203%20-%20storing%20data%20in%20dictionaries.ipynb) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%203%20-%20storing%20data%20in%20dictionaries.ipynb)|
-|Short Break 2|5 minutes|--|--|
-|Part 4 - Introduction to packages and final exercise|55 minutes|[Click here ](https://github.com/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%204%20-%20%20Introduction%20to%20packages%20and%20final%20exercise.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%204%20-%20%20Introduction%20to%20packages%20and%20final%20exercise.ipynb)|
 
 
 
