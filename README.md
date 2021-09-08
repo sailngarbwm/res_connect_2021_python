@@ -17,7 +17,8 @@ Not sure if you want to go through the hassle of installing python? Then You can
 
 There are two ways to do this. One is to open up the repository in Binder, a free cloud machine that will allow you to run all the notebooks. Click on the "launch binder" button below to create your own personal jupyter cloud machine! 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sailngarbwm/res_connect_2021_python/HEAD
+)
 
 (**Note:** If you do not run a code cell for 15 minutes, the session will time out and you will have to click on this button again)
 
@@ -38,7 +39,7 @@ Check out the [installation instructions](Python_Installation.md). **Note** You 
 
 |**Skill**|**time**|**View**|**Run in Collab**|
 |---:|---|---|---|
-|Part 1 - An Introduction to Jupyter and Python|55 min|[Click here ](https://github.com/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%201%20-%20An%20Introduction%20to%20Jupyter%20and%20Python.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%201%20-%20An%20Introduction%20to%20Jupyter%20and%20Python.ipynb)|
+|Part 1 - An Introduction to Jupyter and Python|55 min|[Click here ](https://github.com/sailngarbwm/VALA-Tech-camp-2021-Intro-to-Python/blob/main/Part%201%20-%20An%20Introduction%20to%20Jupyter%20and%20Python.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailngarbwm/res_connect_2021_python/blob/main/Part%201%20-%20An%20Introduction%20to%20Jupyter%20and%20Python.ipynb)|
 
 
 
